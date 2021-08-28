@@ -1,0 +1,13 @@
+div {
+    p {
+        font-weight: bold;
+    }
+}
+
+
+//変数のテスト
+$font-color: #fff;
+
+h1 {
+    color: $font-color;
+}
